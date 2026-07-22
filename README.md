@@ -138,6 +138,7 @@ This project helped me understand:
 ## 👨‍💻 Author
 
 **Danish Solkar**
+
 🎓 Computer Engineering Student
 ---
 
